@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: endtoendml
+Version: 0.0.1
+Author: Neeraj
+Author-email: anjalish2000224@gmail.com
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: flask
+Requires-Dist: numpy
