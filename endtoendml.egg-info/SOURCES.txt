@@ -1,7 +1,0 @@
-setup.py
-endtoendml.egg-info/PKG-INFO
-endtoendml.egg-info/SOURCES.txt
-endtoendml.egg-info/dependency_links.txt
-endtoendml.egg-info/requires.txt
-endtoendml.egg-info/top_level.txt
-src/__init__.py
